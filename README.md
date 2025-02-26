@@ -2,4 +2,4 @@
 ○ Full Name: Kristan Louie Escarilla
 ○ Degree Program: BS Computer Science
 ○ What are your key takeaways from this exercise?
-    How to properly import and export certain properties and functions between files.
+    My takeaways are how to properly import and export certain properties and functions between files.
